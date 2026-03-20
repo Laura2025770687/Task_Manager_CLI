@@ -1,29 +1,17 @@
 {
     "tasks": [
         {
-            "id": 6,
-            "title": "ir a clases",
-            "description": "",
+            "id": 1,
+            "title": "Example 1",
+            "description": "This is the description, The Example 1 task is complete(✔).",
             "pending": false
         },
         {
-            "id": 8,
-            "title": "hola",
-            "description": "chao",
-            "pending": true
-        },
-        {
-            "id": 9,
-            "title": "cocinar",
-            "description": "arroz",
-            "pending": true
-        },
-        {
-            "id": 14,
-            "title": "comprar",
+            "id": 2,
+            "title": "Example 2, without description and incomplete( )",
             "description": "",
-            "pending": false
+            "pending": true
         }
     ],
-    "last_id": 14
+    "last_id": 2
 }
