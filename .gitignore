@@ -1,0 +1,5 @@
+# Python: Archivos temporales de ejecución (MUY IMPORTANTE)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
